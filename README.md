@@ -8,3 +8,6 @@ Proyecto para gestionar el inventario de productos de una empresa.
 - Consultar productos
 - Actualizar productos
 
+## Contacto
+
+Equipo de Desarrollo de Software 
